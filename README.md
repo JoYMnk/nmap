@@ -38,7 +38,7 @@ Expressions are supported:
 - --script="(default and save) and not http-*"
 
 ### NSE scripting (Nmap Scripting Engine)
-```https://www.youtube.com/watch?v=M-Uq7YSfZ4I&t=19s```
+(https://www.youtube.com/watch?v=M-Uq7YSfZ4I&t=19s)
 - Service
   - executed once per port
 - Host
