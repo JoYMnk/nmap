@@ -9,7 +9,7 @@ masscan огенемёт nmap скалпель
 
 ### Fingerprinting своим руками
 
-### Fingerprinting своим руками
+### Система определения версий служб в сетевом сканере Nmap
 
 ### basic
 Default NMAP behaviour depends on **privileges** :
