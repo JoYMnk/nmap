@@ -2,6 +2,7 @@
 [hack5](https://www.youtube.com/watch?v=7XMIFTRiAGA&t=1654s)
 
 masscan огенемёт nmap скалпель
+
 [tasa](https://github.com/PaulMcMillan/tasa/blob/master/examples/tnmap.py)
 
 ``` python tnmap.py 122.64.0.0/11 | xargs -I CMD nmap -sT -sV -sC -n -vvv -Pn -min-rate=1000 --min-hostgroup=256 -oX - CMD ```
